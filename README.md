@@ -1,2 +1,2 @@
 # HAL
-The official Cafe Corona Discord bot repository.
+The official Cafe Corona bot repository.
